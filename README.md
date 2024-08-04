@@ -11,7 +11,8 @@ The dataset used in this analysis contains detailed information about various cr
 
 Analysis :-
 
-The analysis is divided into several sections:
+The analysis is divided into several sections :
+
 Loading and Cleaning Data: Importing the dataset and performing initial cleaning operations such as handling missing values and converting data types.
 Data Exploration: Exploring the dataset to understand its structure, including summary statistics and unique values.
 Win Distribution: Analyzing how matches are won, either by defending a score or chasing a target.
@@ -20,7 +21,8 @@ Match Statistics: Analyzing other relevant match statistics such as venue perfor
 
 Visualizations :-
 
-We use Plotly to create interactive visualizations. Some of the key visualizations include:
-Pie Chart: Distribution of wins by defending vs. chasing.
-Bar Plots: Number of matches won by each team , best bowler , player of the match stats and highest run scorer's in individual matches
-Line Charts: Trends over time, such as the first and second innings score and wkts on a particular day.
+We use Plotly to create interactive visualizations. Some of the key visualizations include :
+
+Pie Chart : Distribution of wins by defending vs. chasing.
+Bar Plots : Number of matches won by each team , best bowler , player of the match stats and highest run scorer's in individual matches
+Line Charts : Trends over time, such as the first and second innings score and wkts on a particular day.
