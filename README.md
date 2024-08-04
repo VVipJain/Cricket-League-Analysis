@@ -35,10 +35,18 @@ VISUALISATION :-
 We use Plotly to create interactive visualizations. Some of the key visualizations include :
 
 Pie Chart : Distribution of wins by defending vs. chasing.
+![newplot(1)](https://github.com/user-attachments/assets/ec73d6a8-512a-46ad-b033-eb4dbecc6647)
+
 
 Bar Plots : Number of matches won by each team , best bowler , player of the match stats and highest run scorer's in individual matches
+![newplot](https://github.com/user-attachments/assets/15230c62-5627-4973-8532-38a11f19c9b2)
+![newplot(2)](https://github.com/user-attachments/assets/812cde5e-c8de-464a-b96c-38cca3923a06)
+![newplot(3)](https://github.com/user-attachments/assets/050bf295-903d-408a-a6d6-3980deee5646)
+![newplot(4)](https://github.com/user-attachments/assets/cc92eea5-0a28-4232-9406-666e53b30393)
+
 
 Line Charts : Trends over time, such as the first and second innings score and wkts on a particular day.
+![newplot(5)](https://github.com/user-attachments/assets/2606f36a-7413-4bcf-afe8-643585f12983)
+![newplot(6)](https://github.com/user-attachments/assets/e81c89d0-cf79-49b2-9649-cd21fc72b288)
 
-![newplot](https://github.com/user-attachments/assets/4ae08ebc-74a1-4a1e-bc9b-6ecc11c5fb5a)
 
