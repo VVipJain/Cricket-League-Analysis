@@ -39,3 +39,6 @@ Pie Chart : Distribution of wins by defending vs. chasing.
 Bar Plots : Number of matches won by each team , best bowler , player of the match stats and highest run scorer's in individual matches
 
 Line Charts : Trends over time, such as the first and second innings score and wkts on a particular day.
+
+![newplot](https://github.com/user-attachments/assets/4ae08ebc-74a1-4a1e-bc9b-6ecc11c5fb5a)
+
